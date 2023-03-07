@@ -156,3 +156,6 @@ temp/
 *.cat
 *.png
 *.zip
+*.meta
+lab1/data/
+*.pth
