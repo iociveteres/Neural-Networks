@@ -159,3 +159,4 @@ temp/
 *.meta
 lab1/data/
 *.pth
+*.xlsx
