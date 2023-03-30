@@ -160,3 +160,6 @@ temp/
 lab1/data/
 *.pth
 *.xlsx
+lab2/Pr6_RNN_LSTM.ipynb
+lab2/imdb_master.csv
+lab2/vocab.pkl
